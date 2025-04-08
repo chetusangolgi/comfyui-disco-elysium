@@ -95,6 +95,7 @@ clone_or_pull https://github.com/ashleykleynhans/civitai-downloader.git
 
 #hugging face downloader
 clone_or_pull https://github.com/Solonce/HFDownloader.git
+clone_or_pull https://github.com/ciri/comfyui-model-downloader.git
 
 # Video
 clone_or_pull https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git
