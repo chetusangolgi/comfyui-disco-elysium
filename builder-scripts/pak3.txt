@@ -36,3 +36,6 @@ numpy
 supabase
 requests
 torch
+argparse
+pathlib
+parse
